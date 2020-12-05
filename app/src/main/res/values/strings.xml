@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mvc-sample-android</string>
+    <string name="click_here">Click Here</string>
+    <string name="profile_mahasiswa">Profile Mahasiswa</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="program_studi">Program Studi</string>
+</resources>
